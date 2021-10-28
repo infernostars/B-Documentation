@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'B*'
 copyright = '2021, the B* Bot Team'
 author = 'The B* Bot Team'
 
