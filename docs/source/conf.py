@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2021, the B* Bot Team'
+author = 'The B* Bot Team'
 
-release = '0.1'
-version = '0.1.0'
+release = 'Prebot 1'
+version = 'Prebot 1'
 
 # -- General configuration
 
